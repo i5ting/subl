@@ -14,6 +14,10 @@ if(argv.length > 1){
     	console.log(stdout);
     });
   }
+  
+  if(a == '.'){
+    argv = [__dirname];
+  }
 }
 // execFile: executes a file with the specified arguments
 child_process.execFile(subl, argv, function(error, stdout, stderr){
