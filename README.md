@@ -2,20 +2,27 @@
 
 subl command with mac
 
+[![npm version](https://badge.fury.io/js/subl.svg)](http://badge.fury.io/js/subl)
+
 ## Install
 
+```
   [sudo] npm install -g subl
-  
+```
+
 ## Usage
 
 打开当前目录
 
+```
   subl .
+```
 
 打开某个文件
 
+```
   subl xxx
-  
+```
 
 ## Contributing
 
