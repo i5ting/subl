@@ -1,6 +1,6 @@
 {
   "name": "subl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "preferGlobal": "true",
   "bin": {
     "subl": "index.js"
