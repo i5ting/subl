@@ -8,6 +8,7 @@
   "description": "alias subl=\\''/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'\\'",
   "main": "index.js",
   "scripts": {
+    "start": "npm publish .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
