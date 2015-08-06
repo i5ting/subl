@@ -4,6 +4,9 @@ subl command with mac
 
 [![npm version](https://badge.fury.io/js/subl.svg)](http://badge.fury.io/js/subl)
 
+
+- 【说明】ubuntu安装完sublime之后就自带subl命令了，用法一样
+
 ## Install
 
 ```
